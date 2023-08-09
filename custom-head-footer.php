@@ -7,7 +7,6 @@
  * Author: Tanabe Kazuyuki
  * Author URI: https://www.tanabehp.com/
  */
-
 defined('ABSPATH') or die("Direct access is not allowed.");
 
 //CSSファイルを読み込む
